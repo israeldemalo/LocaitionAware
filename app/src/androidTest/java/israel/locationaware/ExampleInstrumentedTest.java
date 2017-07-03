@@ -1,4 +1,4 @@
-package israel.locaitionaware;
+package israel.locationaware;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

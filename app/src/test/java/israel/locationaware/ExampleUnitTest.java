@@ -1,4 +1,4 @@
-package israel.locaitionaware;
+package israel.locationaware;
 
 import org.junit.Test;
 
